@@ -4,6 +4,6 @@ The **Employee Management System** is a simple **console-based application** bui
 It enables basic **CRUD (Create, Read, Update, Delete)** operations for employee data via a clean command-line interface.
 <h3>Output</h3>
 
-<img width="500px" height="200px" alt="image" src="https://github.com/user-attachments/assets/3c11052b-4e3d-4350-a54c-a201b9d7258d" />
+<img width="400px" height="300px" alt="image" src="https://github.com/user-attachments/assets/3c11052b-4e3d-4350-a54c-a201b9d7258d" />
 <img width="500" height="297" alt="image" src="https://github.com/user-attachments/assets/0a73eb16-2696-4b69-9167-a23d98e62164" />
 
