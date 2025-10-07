@@ -6,4 +6,7 @@ It enables basic **CRUD (Create, Read, Update, Delete)** operations for employee
 
 <img width="400px" height="300px" alt="image" src="https://github.com/user-attachments/assets/3c11052b-4e3d-4350-a54c-a201b9d7258d" />
 <img width="500" height="297" alt="image" src="https://github.com/user-attachments/assets/0a73eb16-2696-4b69-9167-a23d98e62164" />
+<h3>Updation</h3>
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6b8e760d-0dca-4761-9dbf-2d89d9e90445" />
+
 
