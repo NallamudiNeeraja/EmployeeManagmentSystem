@@ -10,7 +10,7 @@ It enables basic **CRUD (Create, Read, Update, Delete)** operations for employee
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6b8e760d-0dca-4761-9dbf-2d89d9e90445" />
 <img width="548" height="260" alt="image" src="https://github.com/user-attachments/assets/d6a6174e-e2b0-4cbd-84bf-47dbb3717d53" />
 <h3>Delete And Exit</h3>
-<img width="466" height="543" alt="image" src="https://github.com/user-attachments/assets/efa16efa-61ad-446a-9d97-d5284704230e" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/efa16efa-61ad-446a-9d97-d5284704230e" />
 <img width="560" height="205" alt="image" src="https://github.com/user-attachments/assets/bb86eef7-c183-4af6-822d-d53bda8125ba" />
 
 
