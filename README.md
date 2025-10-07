@@ -1,4 +1,4 @@
-<h1>👩‍💼 Employee Management System (Spring JDBC + Oracle)</h1>
+<h2>👩‍💼 Employee Management System (Spring JDBC + Oracle)</h2>
 
 The **Employee Management System** is a simple **console-based application** built using **Spring JDBC** and **Oracle Database**.  
 It enables basic **CRUD (Create, Read, Update, Delete)** operations for employee data via a clean command-line interface.
